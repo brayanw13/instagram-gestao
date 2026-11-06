@@ -10,7 +10,7 @@ Variáveis de ambiente:
   MODO            "publicar" (padrão) ou "teste" (valida tudo e não publica)
   DATA            opcional, AAAA-MM-DD para publicar/testar outra data
   BRANCH          opcional, padrão "main"
-  GRAPH_VERSION   opcional, padrão "v26.0"
+  GRAPH_VERSION   opcional, padrão "v27.0"
   GRAPH_HOST      opcional, padrão "https://graph.facebook.com" (usado nos testes)
 
 Arquivos:
@@ -30,7 +30,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent
 BRT = dt.timezone(dt.timedelta(hours=-3))
 HOST = os.environ.get("GRAPH_HOST", "https://graph.facebook.com").rstrip("/")
-VERSAO = os.environ.get("GRAPH_VERSION", "v26.0")
+VERSAO = os.environ.get("GRAPH_VERSION", "v27.0")
 ESPERA_MAX_S = int(os.environ.get("ESPERA_MAX_S", "180"))
 
 
