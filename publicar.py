@@ -167,6 +167,10 @@ def main():
                 checar_imagem(u)
             montar_legenda(p)
             log(f"Post de {p['data']} ({p['tema']}): {len(urls)} imagem(ns) acessível(is) e legenda OK")
+            # Rascunho na Meta (não publica; expira sozinho em 24h): prova que o Instagram baixa e aceita a imagem.
+            cid = graph("POST", f"{ig}/media", {"image_url": urls[0], "is_carousel_item": "true"})["id"]
+            esperar_container(cid)
+            log("Instagram baixou e aceitou a imagem (rascunho criado, não publicado)")
         log("Teste concluído. Nada foi publicado.")
         return
 
