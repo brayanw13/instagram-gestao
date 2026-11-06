@@ -45,7 +45,7 @@ def log(msg):
 # ---------- Graph API ----------
 def graph(metodo, caminho, params=None):
     params = dict(params or {})
-    params["access_token"] = os.environ["IG_TOKEN"]
+    params["access_token"] = os.environ["IG_TOKEN"].strip()
     url = f"{HOST}/{VERSAO}/{caminho}"
     dados = urllib.parse.urlencode(params).encode()
     if metodo == "GET":
