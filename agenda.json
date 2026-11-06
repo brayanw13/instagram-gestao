@@ -1,0 +1,543 @@
+[
+  {
+    "id": "2026-11_ciclo-01_dia-01",
+    "data": "2026-11-09",
+    "tema": "Lucro x caixa",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-01_lucro-x-caixa/slide-1.jpg"
+    ],
+    "legenda": "A maioria dos empresários olha o lucro e esquece o caixa. Só que empresa não quebra por falta de lucro no papel: quebra porque o dinheiro acabou antes de o cliente pagar.\n\nRegra simples: acompanhe a DRE para saber se o negócio é bom e o fluxo de caixa para saber se ele sobrevive até o mês que vem.\n\nVocê acompanha os dois?",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#fluxodecaixa",
+      "#pme",
+      "#empreendedorismo",
+      "#financasempresariais"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-02",
+    "data": "2026-11-10",
+    "tema": "Por que PMEs fecham",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-02_por-que-pmes-fecham/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-02_por-que-pmes-fecham/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-02_por-que-pmes-fecham/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-02_por-que-pmes-fecham/slide-4.jpg"
+    ],
+    "legenda": "Os dados do Sebrae mostram uma relação clara: quanto menor o porte, menor a taxa de sobrevivência. Gestão não é coisa de empresa grande. É justamente o que falta para a pequena continuar existindo.\n\nEsta é a abertura de uma série de 30 dias sobre gestão estratégica para PMEs. Um conceito por dia, sem enrolação.",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#sebrae",
+      "#pme",
+      "#pequenasempresas",
+      "#empreendedorismo"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-03",
+    "data": "2026-11-11",
+    "tema": "Markup x margem",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-03_markup-x-margem/slide-1.jpg"
+    ],
+    "legenda": "Markup e margem medem coisas diferentes, e quem confunde os dois acha que ganha o dobro do que realmente ganha.\n\nMarkup = quanto você soma ao custo.\nMargem = quanto do preço de venda fica com você.\n\nE lembre: dessa margem ainda saem impostos, comissões, frete e taxas do cartão. Faça a conta completa antes de dar desconto.",
+    "hashtags": [
+      "#precificacao",
+      "#markup",
+      "#gestaofinanceira",
+      "#pme",
+      "#varejo"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-04",
+    "data": "2026-11-12",
+    "tema": "Ponto de equilíbrio",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-04_ponto-de-equilibrio/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-04_ponto-de-equilibrio/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-04_ponto-de-equilibrio/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-04_ponto-de-equilibrio/slide-4.jpg",
+      "posts/2026-11_ciclo-01/dia-04_ponto-de-equilibrio/slide-5.jpg"
+    ],
+    "legenda": "Ponto de equilíbrio = custos fixos ÷ margem de contribuição (%).\n\nÉ o faturamento mínimo para a empresa não ter prejuízo. Todo mês abaixo dele é dinheiro saindo do seu bolso.\n\nSalve para fazer a conta com calma.",
+    "hashtags": [
+      "#pontodeequilibrio",
+      "#gestaofinanceira",
+      "#pme",
+      "#margemdecontribuicao",
+      "#empreendedorismo"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-05",
+    "data": "2026-11-13",
+    "tema": "Separar PF e PJ / pró-labore",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-05_separar-pf-e-pj-pro-labore/slide-1.jpg"
+    ],
+    "legenda": "Misturar as contas é o erro mais comum e o mais caro. Você perde a noção de quanto a empresa realmente lucra e de quanto você realmente ganha.\n\nPró-labore é o seu salário pelo trabalho. Lucro é a remuneração pelo risco de ser dono. São coisas diferentes e precisam de regras diferentes.",
+    "hashtags": [
+      "#prolabore",
+      "#gestaofinanceira",
+      "#pme",
+      "#empreendedor",
+      "#financaspessoais"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-06",
+    "data": "2026-11-14",
+    "tema": "Capital de giro",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-06_capital-de-giro/slide-1.jpg"
+    ],
+    "legenda": "Capital de giro é o dinheiro que mantém a empresa rodando entre o dia em que você paga (fornecedor, folha, aluguel) e o dia em que o cliente te paga.\n\nQuanto maior esse intervalo, mais capital de giro você precisa. Amanhã eu mostro como calcular esse intervalo.",
+    "hashtags": [
+      "#capitaldegiro",
+      "#gestaofinanceira",
+      "#pme",
+      "#sebrae",
+      "#empreendedorismo"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-07",
+    "data": "2026-11-15",
+    "tema": "Ciclo financeiro",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-07_ciclo-financeiro/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-07_ciclo-financeiro/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-07_ciclo-financeiro/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-07_ciclo-financeiro/slide-4.jpg"
+    ],
+    "legenda": "Ciclo financeiro = prazo de estoque + prazo de recebimento − prazo de pagamento.\n\nÉ o número de dias que sua empresa precisa de capital de giro próprio ou de banco para funcionar. Reduzir esse ciclo costuma ser mais barato do que pegar empréstimo.",
+    "hashtags": [
+      "#ciclofinanceiro",
+      "#capitaldegiro",
+      "#fluxodecaixa",
+      "#pme",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-08",
+    "data": "2026-11-16",
+    "tema": "Posicionamento",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-08_posicionamento/slide-1.jpg"
+    ],
+    "legenda": "Posicionamento é escolher para quem você é a melhor opção e aceitar que não será para os outros.\n\nIsso não reduz o mercado. Faz o cliente certo te encontrar e lembrar de você.\n\nEm uma frase: para quem a sua empresa é a melhor escolha?",
+    "hashtags": [
+      "#posicionamento",
+      "#estrategia",
+      "#marketing",
+      "#pme",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-09",
+    "data": "2026-11-17",
+    "tema": "Pareto / Curva ABC",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-09_pareto-curva-abc/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-09_pareto-curva-abc/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-09_pareto-curva-abc/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-09_pareto-curva-abc/slide-4.jpg"
+    ],
+    "legenda": "O princípio de Pareto não é uma lei exata, mas aparece em quase todo negócio: poucos produtos e poucos clientes concentram a maior parte do resultado.\n\nA curva ABC mostra onde está o seu dinheiro e onde está o seu desperdício.",
+    "hashtags": [
+      "#curvaabc",
+      "#pareto",
+      "#gestaodeestoque",
+      "#pme",
+      "#varejo"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-10",
+    "data": "2026-11-18",
+    "tema": "Proposta de valor",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-10_proposta-de-valor/slide-1.jpg"
+    ],
+    "legenda": "Proposta de valor não é slogan. É a razão objetiva pela qual o cliente escolhe você e não o concorrente.\n\nEla precisa responder três coisas: para quem, qual resultado e o que você evita para ele.\n\nEscreva a sua nos comentários e eu dou um feedback.",
+    "hashtags": [
+      "#propostadevalor",
+      "#estrategia",
+      "#vendas",
+      "#pme",
+      "#marketingdigital"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-11",
+    "data": "2026-11-19",
+    "tema": "Preço x diferenciação",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-11_preco-x-diferenciacao/slide-1.jpg"
+    ],
+    "legenda": "Só existem duas formas sustentáveis de competir: ter o menor custo do mercado de verdade (escala, eficiência) ou entregar algo que o cliente valoriza e não encontra igual.\n\nA PME raramente vence a primeira. A segunda está ao alcance de qualquer uma: atendimento, especialização, conveniência, prazo, confiança.",
+    "hashtags": [
+      "#estrategia",
+      "#precificacao",
+      "#diferenciacao",
+      "#pme",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-12",
+    "data": "2026-11-20",
+    "tema": "SWOT cruzada",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-12_swot-cruzada/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-12_swot-cruzada/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-12_swot-cruzada/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-12_swot-cruzada/slide-4.jpg"
+    ],
+    "legenda": "A SWOT cruzada (também chamada de TOWS) transforma diagnóstico em plano.\n\nFaça com seu sócio ou time, gaste no máximo uma hora e termine com três ações claras. Salve para usar no planejamento do próximo ano.",
+    "hashtags": [
+      "#swot",
+      "#planejamentoestrategico",
+      "#estrategia",
+      "#pme",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-13",
+    "data": "2026-11-21",
+    "tema": "Foco: dizer não",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-13_foco-dizer-nao/slide-1.jpg"
+    ],
+    "legenda": "Produto que não vende, serviço que não dá margem, cliente que consome mais tempo do que paga. Tudo isso tira energia do que realmente sustenta o negócio.\n\nO que você deveria parar de fazer na sua empresa este mês?",
+    "hashtags": [
+      "#foco",
+      "#estrategia",
+      "#produtividade",
+      "#pme",
+      "#lideranca"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-14",
+    "data": "2026-11-22",
+    "tema": "Revisão: 5 perguntas",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-14_revisao-5-perguntas/slide-1.jpg"
+    ],
+    "legenda": "Essas foram as duas primeiras semanas da série: dinheiro e estratégia.\n\nSe você travou em alguma, volte no post correspondente no perfil. Quantas você conseguiu responder? Comenta aqui.",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#pme",
+      "#autodiagnostico",
+      "#empreendedorismo",
+      "#estrategia"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-15",
+    "data": "2026-11-23",
+    "tema": "KPIs essenciais",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-15_kpis-essenciais/slide-1.jpg"
+    ],
+    "legenda": "Indicador bom é aquele que muda uma decisão. Se você olha e não faz nada diferente, ele está ocupando espaço.\n\nComece por esses cinco, olhe toda segunda-feira e só adicione outro quando sentir falta de uma informação específica.",
+    "hashtags": [
+      "#kpi",
+      "#indicadores",
+      "#gestaoempresarial",
+      "#pme",
+      "#gestaoporindicadores"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-16",
+    "data": "2026-11-24",
+    "tema": "CAC e LTV",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-16_cac-e-ltv/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-16_cac-e-ltv/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-16_cac-e-ltv/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-16_cac-e-ltv/slide-4.jpg"
+    ],
+    "legenda": "CAC = quanto você gasta para trazer um cliente.\nLTV = quanto de margem esse cliente deixa enquanto compra de você.\n\nSe o LTV é bem maior que o CAC, vale acelerar o marketing. Se não é, aumentar o investimento só aumenta o prejuízo.",
+    "hashtags": [
+      "#cac",
+      "#ltv",
+      "#marketing",
+      "#vendas",
+      "#pme"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-17",
+    "data": "2026-11-25",
+    "tema": "3 alavancas do faturamento",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-17_3-alavancas-do-faturamento/slide-1.jpg"
+    ],
+    "legenda": "Conquistar cliente novo é a alavanca mais cara. Fazer o cliente atual voltar mais vezes e comprar um pouco mais em cada visita costuma ser mais barato e mais rápido.\n\nA conta: 1,1 × 1,1 × 1,1 = 1,33. Pequenas melhorias nas três alavancas se multiplicam.",
+    "hashtags": [
+      "#vendas",
+      "#ticketmedio",
+      "#faturamento",
+      "#pme",
+      "#gestaocomercial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-18",
+    "data": "2026-11-26",
+    "tema": "Estoque parado",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-18_estoque-parado/slide-1.jpg"
+    ],
+    "legenda": "Com o mesmo faturamento, reduzir o tempo que o estoque fica parado de 120 para 60 dias libera metade do dinheiro investido nele.\n\nComece pela curva C do post do dia 9: é ali que costuma estar o estoque que não gira.",
+    "hashtags": [
+      "#gestaodeestoque",
+      "#capitaldegiro",
+      "#varejo",
+      "#pme",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-19",
+    "data": "2026-11-27",
+    "tema": "DRE simples",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-19_dre-simples/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-19_dre-simples/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-19_dre-simples/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-19_dre-simples/slide-4.jpg"
+    ],
+    "legenda": "Faturamento é vaidade, lucro é sanidade. A DRE mostra o caminho entre os dois.\n\nVocê não precisa do modelo completo do contador para gerir. Essas 5 linhas, atualizadas todo mês, já mostram onde agir.",
+    "hashtags": [
+      "#dre",
+      "#gestaofinanceira",
+      "#lucro",
+      "#pme",
+      "#contabilidade"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-20",
+    "data": "2026-11-28",
+    "tema": "Processos",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-20_processos/slide-1.jpg"
+    ],
+    "legenda": "Processo documentado é o que permite a empresa funcionar sem depender da memória do dono.\n\nComece pela tarefa que você mais repete. Grave a tela ou escreva o passo a passo, treine alguém, acompanhe o resultado por duas semanas e só então solte.",
+    "hashtags": [
+      "#processos",
+      "#gestaoempresarial",
+      "#delegar",
+      "#pme",
+      "#lideranca"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-21",
+    "data": "2026-11-29",
+    "tema": "Reunião de resultados",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-21_reuniao-de-resultados/slide-1.jpg"
+    ],
+    "legenda": "Reunião sem decisão é só conversa. Reunião com decisão, dono e prazo é gestão.\n\nMarque no calendário: primeira semana de cada mês, mesmo dia, mesma pauta. Em três meses você vai ver a diferença.",
+    "hashtags": [
+      "#reuniao",
+      "#gestaoporresultados",
+      "#lideranca",
+      "#pme",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-22",
+    "data": "2026-11-30",
+    "tema": "Custo real do funcionário",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-22_custo-real-do-funcionario/slide-1.jpg"
+    ],
+    "legenda": "Antes de contratar, peça ao seu contador o custo total mensal da vaga no seu regime tributário. No Simples Nacional, a conta é diferente da do Lucro Presumido ou Real.\n\nE compare esse custo com o resultado que a vaga vai gerar. Contratação é investimento e precisa se pagar.",
+    "hashtags": [
+      "#rh",
+      "#clt",
+      "#custodefuncionario",
+      "#pme",
+      "#gestaodepessoas"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-23",
+    "data": "2026-12-01",
+    "tema": "Contratação",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-23_contratacao/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-23_contratacao/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-23_contratacao/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-23_contratacao/slide-4.jpg",
+      "posts/2026-11_ciclo-01/dia-23_contratacao/slide-5.jpg"
+    ],
+    "legenda": "Contratar no desespero, porque a equipe está sobrecarregada, é o caminho mais comum para a contratação errada.\n\nDefina o resultado da vaga, teste na prática e acompanhe de perto os primeiros 90 dias.",
+    "hashtags": [
+      "#contratacao",
+      "#rh",
+      "#gestaodepessoas",
+      "#pme",
+      "#lideranca"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-24",
+    "data": "2026-12-02",
+    "tema": "Delegar x largar",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-24_delegar-x-largar/slide-1.jpg"
+    ],
+    "legenda": "Delegar é transferir a tarefa junto com o contexto, o padrão de qualidade e o acompanhamento. Largar é só transferir a tarefa.\n\nO tempo que você investe no início é o que te devolve tempo depois.",
+    "hashtags": [
+      "#delegar",
+      "#lideranca",
+      "#gestaodepessoas",
+      "#pme",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-25",
+    "data": "2026-12-03",
+    "tema": "Crescer consome caixa",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-25_crescer-consome-caixa/slide-1.jpg"
+    ],
+    "legenda": "Se você compra e paga antes de receber, cada venda a mais exige dinheiro adiantado. Crescimento rápido sem caixa é uma das formas mais comuns de empresa boa quebrar.\n\nAntes de acelerar, faça a conta do ciclo financeiro (post do dia 7) e garanta o caixa para sustentar o novo tamanho.",
+    "hashtags": [
+      "#crescimento",
+      "#capitaldegiro",
+      "#gestaofinanceira",
+      "#pme",
+      "#estrategia"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-26",
+    "data": "2026-12-04",
+    "tema": "Dívida boa x ruim",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-26_divida-boa-x-ruim/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-26_divida-boa-x-ruim/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-26_divida-boa-x-ruim/slide-3.jpg"
+    ],
+    "legenda": "Crédito bem usado acelera a empresa. Mal usado, só adia a crise e acrescenta juros a ela.\n\nAntes de assinar, compare o custo total do empréstimo com o retorno que ele vai gerar.",
+    "hashtags": [
+      "#credito",
+      "#endividamento",
+      "#gestaofinanceira",
+      "#pme",
+      "#capitaldegiro"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-27",
+    "data": "2026-12-05",
+    "tema": "Preço por valor",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-27_preco-por-valor/slide-1.jpg"
+    ],
+    "legenda": "Quem precifica só pelo custo deixa dinheiro na mesa sempre que entrega mais valor do que cobra.\n\nPergunte-se: quanto o meu cliente perde, ou deixa de ganhar, se não tiver o que eu vendo? Esse é o teto. Entre o mínimo e o teto está a sua estratégia de preço.",
+    "hashtags": [
+      "#precificacao",
+      "#valor",
+      "#estrategia",
+      "#vendas",
+      "#pme"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-28",
+    "data": "2026-12-06",
+    "tema": "Metas",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-28_metas/slide-1.jpg"
+    ],
+    "legenda": "Meta precisa ser medida, ter data e ter um dono. Sem isso, chega dezembro e ninguém sabe se cumpriu.\n\nAproveite o fim de ano: escreva no máximo 3 metas para 2027 nesse formato.",
+    "hashtags": [
+      "#metas",
+      "#planejamento",
+      "#gestaoporresultados",
+      "#pme",
+      "#2027"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-29",
+    "data": "2026-12-07",
+    "tema": "Planejamento anual em 1 página",
+    "formato": "carrossel",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-29_planejamento-anual-em-1-pagina/slide-1.jpg",
+      "posts/2026-11_ciclo-01/dia-29_planejamento-anual-em-1-pagina/slide-2.jpg",
+      "posts/2026-11_ciclo-01/dia-29_planejamento-anual-em-1-pagina/slide-3.jpg",
+      "posts/2026-11_ciclo-01/dia-29_planejamento-anual-em-1-pagina/slide-4.jpg"
+    ],
+    "legenda": "Dezembro é o melhor mês para planejar, e o mais desperdiçado.\n\nSalve este modelo e reserve uma tarde para montar o seu. Se quiser ajuda para estruturar, me chama no direct.",
+    "hashtags": [
+      "#planejamentoestrategico",
+      "#planejamento2027",
+      "#gestaoempresarial",
+      "#pme",
+      "#metas"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-30",
+    "data": "2026-12-08",
+    "tema": "Encerramento da série",
+    "formato": "imagem",
+    "imagens": [
+      "posts/2026-11_ciclo-01/dia-30_encerramento-da-serie/slide-1.jpg"
+    ],
+    "legenda": "Obrigado a quem acompanhou a série inteira.\n\nQual conceito foi mais útil para você? Comenta aqui. Os mais pedidos viram conteúdo aprofundado na próxima série.\n\nSe quiser um diagnóstico da gestão da sua empresa, me chama no direct.",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#pme",
+      "#empreendedorismo",
+      "#estrategia",
+      "#consultoria"
+    ]
+  }
+]
