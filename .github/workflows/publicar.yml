@@ -31,6 +31,10 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Pega o estado mais recente da branch (não o do momento do agendamento),
+          # para enxergar publicados.json atualizado e nunca postar em duplicidade.
+          ref: ${{ github.ref_name }}
 
       - name: Publicar
         env:
