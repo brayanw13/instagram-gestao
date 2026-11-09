@@ -2,8 +2,11 @@ name: Publicar post do dia
 
 on:
   schedule:
-    # Todo dia às 11:47 de Brasília (14:47 UTC). Minuto "quebrado" para fugir
-    # dos atrasos do GitHub no início de cada hora.
+    # O GitHub costuma atrasar o disparo em ~4h. Principal: 07:17 de Brasília
+    # (10:17 UTC), para o post sair perto do fim da manhã.
+    - cron: "17 10 * * *"
+    # Reserva: 11:47 de Brasília (14:47 UTC). Se o principal já publicou, este
+    # só confere e não faz nada (nunca publica duas vezes).
     - cron: "47 14 * * *"
   workflow_dispatch:
     inputs:

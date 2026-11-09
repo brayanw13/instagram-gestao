@@ -1,6 +1,6 @@
 # Configuração (uma vez só)
 
-Este repositório publica 1 post por dia no Instagram, às 11:47 de Brasília, usando o GitHub Actions.
+Este repositório publica 1 post por dia no Instagram usando o GitHub Actions. O disparo está marcado para 07:17 de Brasília, com uma reserva às 11:47. O GitHub costuma atrasar algumas horas, então o post sai em horário variável, normalmente entre o fim da manhã e o começo da tarde.
 Ele precisa ser **público**, porque o Instagram baixa as imagens pelo link público do GitHub.
 O token fica guardado como *secret*, que não aparece no código nem nos logs.
 
@@ -43,7 +43,7 @@ Não cole o token em nenhum arquivo, issue ou chat.
 
 ## Rotina
 
-- Todo dia às 11:47, o workflow publica o post daquela data em `agenda.json` e registra em `publicados.json`. Ele nunca publica o mesmo post duas vezes.
+- Todo dia, o workflow publica o post daquela data em `agenda.json` e registra em `publicados.json`. Ele nunca publica o mesmo post duas vezes.
 - Se algo falhar, o GitHub manda e-mail. Para publicar manualmente o post de um dia que falhou: **Run workflow** com modo `publicar` e a data.
 - Para mudar o horário, edite o `cron` em `.github/workflows/publicar.yml`. O horário é em UTC: Brasília + 3 horas.
 - Pausar: **Actions → Publicar post do dia → ⋯ → Disable workflow**.
