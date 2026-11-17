@@ -38,5 +38,365 @@
     ],
     "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-03_markup-x-margem/imagem.jpg",
     "alt": "Se você aplica markup de 100%, sua margem não é 100%. É 50%. E essa confusão está destruindo o preço de muita empresa."
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-04",
+    "data": "2026-11-20",
+    "tema": "Ponto de equilíbrio",
+    "formato": "documento",
+    "texto": "Se você não sabe quanto sua empresa precisa faturar só para empatar, não tem como saber se o mês foi bom ou ruim.\n\nEsse número se chama ponto de equilíbrio, e a conta cabe num guardanapo:\n\ncustos fixos ÷ margem de contribuição (%)\n\nCom R$ 30 mil de custos fixos e margem de contribuição de 40%, o ponto de equilíbrio é R$ 75 mil. Todo mês abaixo disso a empresa paga para trabalhar. Acima disso começa o lucro.\n\nO erro mais comum na hora de calcular é usar o markup no lugar da margem de contribuição. A margem precisa descontar tudo o que varia com a venda: mercadoria, impostos, comissão, frete e taxa do cartão.\n\nNo documento tem o passo a passo com os números.\n\nVocê sabe de cabeça o ponto de equilíbrio da sua empresa?",
+    "hashtags": [
+      "#gestaofinanceira",
+      "#pontodeequilibrio",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-04_ponto-de-equilibrio/documento.pdf",
+    "titulo_documento": "Ponto de equilíbrio: o faturamento mínimo da sua empresa"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-05",
+    "data": "2026-11-21",
+    "tema": "Separar PF e PJ / pró-labore",
+    "formato": "texto",
+    "texto": "Se você tira dinheiro do caixa da empresa \"quando precisa\", você não tem salário. Tem um vazamento.\n\nMisturar as contas é o erro mais comum que eu vejo em PME, e um dos mais caros. Não pelo valor de cada retirada, mas porque o dono perde a noção de duas coisas: quanto a empresa realmente lucra e quanto ele realmente ganha.\n\nTrês regras resolvem a maior parte do problema:\n\n1. Conta bancária da empresa separada da sua. Nada de pagar o mercado de casa com o cartão da empresa.\n2. Pró-labore fixo, no mesmo dia, todo mês. É o seu salário pelo trabalho que você faz.\n3. Distribuição de lucro só depois de fechar o mês e confirmar que teve lucro.\n\nPró-labore e lucro são coisas diferentes. Um paga o seu trabalho. O outro remunera o risco de ser dono. Quando os dois viram uma retirada só, a empresa pode estar dando prejuízo e o dono só descobre quando o caixa acaba.\n\nSe hoje as contas estão misturadas, comece pela primeira regra. As outras duas ficam muito mais fáceis depois dela.\n\nNa sua empresa, o pró-labore tem valor e dia fixos?",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#prolabore",
+      "#pme"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-06",
+    "data": "2026-11-22",
+    "tema": "Capital de giro",
+    "formato": "imagem",
+    "texto": "Capital de giro é o dinheiro que mantém a empresa funcionando entre o dia em que você paga e o dia em que o cliente te paga.\n\nFornecedor, folha e aluguel vencem antes. O dinheiro da venda entra depois. Alguém precisa bancar esse intervalo: ou o caixa da empresa, ou o banco.\n\nUm jeito simples de estimar quanto você precisa:\n\ncustos mensais ÷ 30 × dias entre pagar e receber\n\nCom R$ 60 mil de custos por mês e 45 dias de intervalo, são cerca de R$ 90 mil que precisam existir antes de a venda virar dinheiro.\n\nEsse número explica por que tanta empresa com boas vendas vive no cheque especial. A venda existe. O que falta é dinheiro para atravessar o prazo.\n\nAmanhã eu mostro como calcular esse intervalo com precisão: o ciclo financeiro.\n\nVocê sabe quantos dias sua empresa leva entre pagar e receber?",
+    "hashtags": [
+      "#capitaldegiro",
+      "#fluxodecaixa",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-06_capital-de-giro/imagem.jpg",
+    "alt": "Capital de giro é o dinheiro que mantém a empresa de pé entre pagar e receber. Sem ele, a empresa quebra mesmo vendendo bem."
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-07",
+    "data": "2026-11-23",
+    "tema": "Ciclo financeiro",
+    "formato": "documento",
+    "texto": "Quantos dias sua empresa financia o cliente com o próprio dinheiro?\n\nA maioria dos donos nunca fez essa conta, e ela explica quase todo caixa apertado. São três prazos:\n\n→ prazo médio de estoque: quanto tempo o produto fica parado até vender\n→ prazo médio de recebimento: quanto tempo o cliente leva para pagar\n→ prazo médio de pagamento: quanto tempo você tem para pagar o fornecedor\n\nCiclo financeiro = estoque + recebimento − pagamento\n\nCom 60 dias de estoque, 30 de recebimento e 45 de pagamento, são 45 dias em que a empresa já pagou o fornecedor e ainda não recebeu do cliente. Esse intervalo é bancado com capital próprio ou com juros do banco.\n\nA boa notícia: reduzir o ciclo costuma ser mais barato do que pegar empréstimo. Girar o estoque mais rápido, receber antes e negociar prazo com fornecedor são decisões de gestão, não de crédito.\n\nNo documento tem a conta passo a passo.\n\nQual dos três prazos pesa mais na sua empresa?",
+    "hashtags": [
+      "#ciclofinanceiro",
+      "#capitaldegiro",
+      "#gestaofinanceira"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-07_ciclo-financeiro/documento.pdf",
+    "titulo_documento": "Ciclo financeiro: quantos dias você banca a operação sozinho"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-08",
+    "data": "2026-11-24",
+    "tema": "Posicionamento",
+    "formato": "texto",
+    "texto": "Quem vende para todo mundo não vende para ninguém.\n\nÉ uma frase batida, mas o erro continua comum. A empresa tem medo de perder cliente, tenta agradar todos os públicos e vira só mais uma opção na lista. Aí sobra competir por preço.\n\nPosicionamento é escolher para quem você é a melhor escolha e aceitar que não vai ser para os outros.\n\nParece que isso diminui o mercado. Na prática acontece o contrário: o cliente certo te encontra mais rápido, entende o que você faz e indica você para gente parecida com ele.\n\nUm teste rápido: complete a frase \"Somos especialistas em ___ para ___\". Se a resposta for \"atendemos todos os públicos\", o posicionamento ainda não existe.\n\nNão precisa ser um nicho minúsculo. Precisa ser claro o suficiente para alguém lembrar de você quando o problema aparecer.\n\nEm uma frase: para quem a sua empresa é a melhor escolha?",
+    "hashtags": [
+      "#posicionamento",
+      "#estrategia",
+      "#pme"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-09",
+    "data": "2026-11-25",
+    "tema": "Pareto / Curva ABC",
+    "formato": "documento",
+    "texto": "Em muitas empresas, perto de 20% dos produtos fazem cerca de 80% do faturamento. E o dono passa a maior parte do tempo cuidando dos outros 80%.\n\nO princípio de Pareto não é uma lei exata, mas aparece em quase todo negócio. A curva ABC é o jeito prático de enxergar isso nos seus números:\n\n1. Exporte as vendas dos últimos 12 meses por produto\n2. Ordene do maior para o menor faturamento\n3. Some o acumulado: até 80% é curva A, até 95% é B, o resto é C\n\nCada curva pede uma decisão diferente. A curva A nunca pode faltar e merece a melhor negociação com fornecedor. A curva C costuma ser onde está o estoque parado e o dinheiro preso.\n\nO mesmo vale para clientes. Saber quem são os 20% que sustentam a empresa muda a forma como você atende, cobra e prioriza.\n\nVocê já fez a curva ABC da sua empresa? O que mais te surpreendeu?",
+    "hashtags": [
+      "#curvaabc",
+      "#gestaodeestoque",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-09_pareto-curva-abc/documento.pdf",
+    "titulo_documento": "Curva ABC: onde está o dinheiro da sua empresa"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-10",
+    "data": "2026-11-26",
+    "tema": "Proposta de valor",
+    "formato": "imagem",
+    "texto": "Se você precisa de mais de uma frase para explicar por que o cliente deve comprar de você, o problema não é o cliente.\n\nProposta de valor não é slogan. É a razão objetiva pela qual o cliente escolhe você e não o concorrente. Ela responde três coisas:\n\n→ para quem\n→ qual resultado\n→ qual dor você evita\n\nO modelo da imagem ajuda a tirar isso do papel: \"Eu ajudo [quem] a conseguir [resultado] sem [dor que ele quer evitar]\".\n\nDepois de escrever, teste com 5 clientes atuais. Pergunte por que compram de você. Se eles não disserem algo parecido com as próprias palavras, a proposta está bonita, mas não é a real. Reescreva com o que eles disseram.\n\nEscreva a sua nos comentários que eu dou um retorno.",
+    "hashtags": [
+      "#propostadevalor",
+      "#estrategia",
+      "#marketing"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-10_proposta-de-valor/imagem.jpg",
+    "alt": "Se você precisa de mais de uma frase para explicar por que o cliente deve comprar de você, o problema não é o cliente."
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-11",
+    "data": "2026-11-27",
+    "tema": "Preço x diferenciação",
+    "formato": "texto",
+    "texto": "Competir por preço é a estratégia de quem não tem estratégia. Sempre vai existir alguém disposto a ganhar menos do que você.\n\nExistem só duas formas sustentáveis de competir:\n\n1. Ter o menor custo do mercado de verdade, com escala e eficiência que os outros não conseguem copiar\n2. Entregar algo que o cliente valoriza e não encontra igual\n\nA PME raramente vence a primeira. Quem tem escala é o grande varejo, a indústria, o marketplace. Entrar nessa briga sem esse custo é trocar margem por volume até o caixa acabar.\n\nA segunda está ao alcance de qualquer empresa: atendimento, especialização, conveniência, prazo de entrega, confiança. Nada disso exige ser grande. Exige escolher pelo que você quer ser lembrado e entregar isso todo dia.\n\nUm sinal de que a empresa entrou na guerra de preço: o cliente troca de fornecedor por R$ 1 de diferença e ninguém sente falta.\n\nSe o seu cliente tivesse que explicar por que compra de você, ele falaria de preço ou de outra coisa?",
+    "hashtags": [
+      "#estrategia",
+      "#precificacao",
+      "#pme"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-12",
+    "data": "2026-11-28",
+    "tema": "SWOT cruzada",
+    "formato": "documento",
+    "texto": "Sua análise SWOT não serve para nada se você só preencheu os quatro quadrantes.\n\nForças, fraquezas, oportunidades e ameaças viram quatro listas bonitas na parede e nenhuma decisão. O valor está no passo que quase todo mundo pula: cruzar os quadrantes.\n\n→ Força + oportunidade: onde atacar e investir\n→ Força + ameaça: como usar o que você tem para se proteger\n→ Fraqueza + oportunidade: o que corrigir para aproveitar\n→ Fraqueza + ameaça: onde a empresa pode quebrar e o que evitar\n\nEssa versão também é chamada de matriz TOWS. Faça com seu sócio ou com o time, gaste no máximo uma hora e termine com no máximo 3 ações, cada uma com prazo e responsável.\n\nSWOT que não vira ação é só diagnóstico.\n\nBom exercício para fazer agora, antes do planejamento de 2027.",
+    "hashtags": [
+      "#planejamentoestrategico",
+      "#swot",
+      "#gestaoempresarial"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-12_swot-cruzada/documento.pdf",
+    "titulo_documento": "SWOT cruzada: como transformar diagnóstico em decisão"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-13",
+    "data": "2026-11-29",
+    "tema": "Foco: dizer não",
+    "formato": "texto",
+    "texto": "Estratégia é decidir o que você não vai fazer.\n\nToda empresa que tenta fazer tudo acaba fazendo tudo pela metade. O produto que quase não vende, o serviço que não dá margem, o cliente que consome mais tempo do que paga. Cada um parece pequeno, mas juntos tiram energia, caixa e atenção do que realmente sustenta o negócio.\n\nTrês perguntas ajudam a decidir o que cortar:\n\n1. Isso dá margem ou só dá faturamento?\n2. Isso atende o cliente que eu escolhi atender?\n3. Se eu parar amanhã, alguém sente falta?\n\nSe as três respostas forem ruins, é candidato a sair. Cortar dói no começo, porque parece que você está perdendo receita. Na prática, quase sempre sobra mais lucro e mais tempo para o que funciona.\n\nO que você deveria parar de fazer na sua empresa este mês?",
+    "hashtags": [
+      "#estrategia",
+      "#foco",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-14",
+    "data": "2026-11-30",
+    "tema": "Revisão: 5 perguntas",
+    "formato": "imagem",
+    "texto": "5 perguntas que todo dono de empresa deveria conseguir responder sem abrir planilha:\n\n1. Quanto preciso faturar para empatar?\n2. Quantos dias de caixa eu tenho hoje?\n3. Qual é a minha margem de contribuição?\n4. Quais produtos e clientes fazem 80% do resultado?\n5. Para quem a minha empresa é a melhor escolha?\n\nElas resumem as duas primeiras semanas desta série: dinheiro e estratégia. Não precisa saber o número exato de cabeça, mas precisa saber a ordem de grandeza e onde encontrar.\n\nSe travou em alguma, os posts anteriores têm o passo a passo de cada uma. Na próxima semana o assunto é números e operação: indicadores, DRE, estoque e processos.\n\nQuantas das cinco você conseguiu responder?",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#pme",
+      "#empreendedorismo"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-14_revisao-5-perguntas/imagem.jpg",
+    "alt": "5 perguntas que todo dono de empresa deveria responder sem abrir planilha:"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-15",
+    "data": "2026-12-01",
+    "tema": "KPIs essenciais",
+    "formato": "documento",
+    "texto": "Você não precisa de 40 indicadores. Precisa de 5 que você olha toda semana.\n\nOs que eu considero mínimos para uma PME:\n\n1. Faturamento x meta\n2. Margem de contribuição\n3. Saldo de caixa projetado para 30 dias\n4. Ticket médio\n5. Inadimplência\n\nCada um responde uma pergunta que muda decisão: estou no ritmo? Estou vendendo com lucro? Vou conseguir pagar as contas do mês que vem? O cliente está comprando mais ou menos? Estou recebendo o que vendi?\n\nIndicador bom é aquele que muda uma decisão. Se você olha e não faz nada diferente, ele só ocupa espaço no painel.\n\nComece por esses cinco, olhe toda segunda-feira e só acrescente outro quando faltar informação para uma decisão específica.\n\nQual indicador você olha primeiro na sua empresa?",
+    "hashtags": [
+      "#indicadores",
+      "#kpi",
+      "#gestaoempresarial"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-15_kpis-essenciais/documento.pdf",
+    "titulo_documento": "Os 5 indicadores mínimos de uma PME"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-16",
+    "data": "2026-12-02",
+    "tema": "CAC e LTV",
+    "formato": "documento",
+    "texto": "Quanto custa conquistar um cliente? E quanto ele deixa de lucro enquanto compra de você?\n\nSem essas duas respostas, o investimento em marketing é feito no escuro.\n\nCAC é o custo de aquisição de cliente: tudo o que você gastou em marketing e vendas no mês dividido pelo número de clientes novos. R$ 3.000 para 30 clientes dá CAC de R$ 100.\n\nLTV é a margem que o cliente gera durante a relação. Ticket de R$ 150 com 40% de margem deixa R$ 60 por compra. Se ele compra 5 vezes por ano durante 2 anos, o LTV é R$ 600.\n\nLTV ÷ CAC = 6. Uma referência comum de mercado é ficar acima de 3. Abaixo de 1, cada cliente novo dá prejuízo, e acelerar o marketing só acelera o prejuízo.\n\nUm detalhe que muita gente erra: o LTV precisa ser calculado sobre a margem, não sobre o faturamento. Com faturamento, a conta sempre parece boa.\n\nVocê sabe quanto custa trazer um cliente novo para a sua empresa?",
+    "hashtags": [
+      "#marketing",
+      "#vendas",
+      "#gestaoempresarial"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-16_cac-e-ltv/documento.pdf",
+    "titulo_documento": "CAC e LTV: a conta que mostra se o marketing dá lucro"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-17",
+    "data": "2026-12-03",
+    "tema": "3 alavancas do faturamento",
+    "formato": "imagem",
+    "texto": "Só existem 3 formas de aumentar o faturamento. E quase todo mundo foca apenas na primeira.\n\nFaturamento = número de clientes × frequência de compra × ticket médio\n\nConquistar cliente novo é a alavanca mais cara: exige marketing, venda e tempo. Fazer o cliente atual voltar mais vezes e comprar um pouco mais em cada visita costuma ser mais barato e mais rápido.\n\nE as três se multiplicam. Melhorar 10% em cada uma gera cerca de 33% a mais de faturamento: 1,1 × 1,1 × 1,1 = 1,33.\n\nNa prática, isso significa olhar para programa de recompra, contato com quem não volta há 60 dias, combos e venda de itens complementares no caixa.\n\nNa sua empresa, qual das três alavancas está mais esquecida?",
+    "hashtags": [
+      "#vendas",
+      "#faturamento",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-17_3-alavancas-do-faturamento/imagem.jpg",
+    "alt": "Só existem 3 formas de aumentar o faturamento. E quase todo mundo foca apenas na primeira."
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-18",
+    "data": "2026-12-04",
+    "tema": "Estoque parado",
+    "formato": "texto",
+    "texto": "Estoque parado é dinheiro parado. E dinheiro parado na prateleira é dinheiro que falta no caixa.\n\nUm exemplo: uma loja com R$ 200 mil em estoque e giro de 120 dias. Se ela conseguir girar em 60 dias vendendo o mesmo, precisa de só R$ 100 mil em estoque. São R$ 100 mil liberados para o caixa sem vender um real a mais.\n\nOnde costuma estar esse dinheiro preso:\n\n→ itens da curva C, que vendem pouco e ocupam espaço\n→ grade completa de produtos que só vendem em um ou dois tamanhos\n→ compras feitas por desconto de volume, sem olhar o giro\n→ produto antigo que ninguém quer liquidar para não \"perder dinheiro\"\n\nO último é o mais caro. O dinheiro já foi perdido na compra. Cada mês parado aumenta o custo de oportunidade e o risco de o produto perder valor.\n\nComece pela curva ABC: liste os itens C com mais de 90 dias sem venda e decida o que liquidar.\n\nQuanto do seu estoque não gira há mais de 90 dias?",
+    "hashtags": [
+      "#gestaodeestoque",
+      "#varejo",
+      "#capitaldegiro"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-19",
+    "data": "2026-12-05",
+    "tema": "DRE simples",
+    "formato": "documento",
+    "texto": "Sua empresa faturou R$ 100 mil. Quanto sobrou de verdade?\n\nA DRE responde isso em poucas linhas, e não precisa ser contador para montar a versão gerencial:\n\nFaturamento\n(−) impostos sobre a venda\n(−) custos variáveis\n= margem de contribuição\n(−) despesas fixas\n(−) juros e tarifas\n= lucro\n\nNo exemplo do documento, R$ 100 mil de faturamento viram R$ 5 mil de lucro. Margem líquida de 5%. É comum o dono se assustar na primeira vez que faz essa conta.\n\nO valor da DRE gerencial está na comparação mês a mês, sempre no mesmo formato. É assim que aparece a despesa que cresceu sem ninguém perceber ou a margem que caiu porque o fornecedor reajustou.\n\nFaturamento é vaidade, lucro é sanidade. A DRE mostra o caminho entre os dois.\n\nVocê recebe a DRE do contador todo mês? E alguém olha para ela?",
+    "hashtags": [
+      "#dre",
+      "#gestaofinanceira",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-19_dre-simples/documento.pdf",
+    "titulo_documento": "DRE simplificada: as linhas que mostram se a empresa dá lucro"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-20",
+    "data": "2026-12-06",
+    "tema": "Processos",
+    "formato": "imagem",
+    "texto": "Se sua empresa para quando você sai de férias, você não tem uma empresa. Tem um emprego que você mesmo criou.\n\nProcesso documentado é o que permite a empresa funcionar sem depender da memória do dono. E não precisa de manual de 50 páginas.\n\nO caminho que funciona em PME:\n\n1. Documentar: escolha a tarefa que você mais repete e grave a tela ou escreva o passo a passo\n2. Treinar: ensine alguém usando esse material\n3. Medir: acompanhe o resultado por duas semanas\n4. Delegar: só então solte de vez\n\nUma tarefa por mês já muda muito em um ano. O erro comum é tentar documentar tudo de uma vez, desistir no meio e voltar a fazer tudo sozinho.\n\nQual tarefa da sua empresa ainda só você sabe fazer?",
+    "hashtags": [
+      "#processos",
+      "#gestaoempresarial",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-20_processos/imagem.jpg",
+    "alt": "Se sua empresa para quando você sai de férias, você não tem uma empresa. Tem um emprego que você mesmo criou."
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-21",
+    "data": "2026-12-07",
+    "tema": "Reunião de resultados",
+    "formato": "texto",
+    "texto": "Reunião mensal de resultados não é para olhar números. É para decidir o que muda no mês seguinte.\n\nMuitas reuniões terminam com todo mundo sabendo que a meta não foi batida e ninguém sabendo o que vai ser diferente. Aí o mês seguinte repete o anterior.\n\nUma pauta simples, em até 1 hora:\n\n1. Números: meta x realizado\n2. Causas: por que desviou?\n3. Decisões: o que muda?\n4. Responsáveis e prazos para cada decisão\n\nO bloco 3 é o que mais importa. Os outros existem para chegar nele com informação.\n\nE o bloco 4 é o que faz a reunião seguinte começar diferente: a primeira pauta passa a ser \"o que foi decidido no mês passado aconteceu?\".\n\nMarque no calendário: primeira semana de cada mês, mesmo dia, mesma pauta. Em três meses dá para ver a diferença.\n\nNa sua empresa, a última reunião terminou com alguma decisão com dono e prazo?",
+    "hashtags": [
+      "#lideranca",
+      "#gestaodeequipes",
+      "#gestaoempresarial"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-22",
+    "data": "2026-12-08",
+    "tema": "Custo real do funcionário",
+    "formato": "imagem",
+    "texto": "O salário não é o custo do seu funcionário. É só a parte que aparece no contracheque.\n\nNo custo real de um CLT entram ainda:\n\n→ 13º salário\n→ férias + 1/3\n→ FGTS de 8%\n→ encargos sobre a folha, que dependem do regime tributário\n→ benefícios, como vale-transporte e vale-refeição\n→ provisão para uma eventual rescisão\n\nO regime faz muita diferença. No Lucro Presumido e no Real, a empresa paga ainda a contribuição patronal ao INSS sobre a folha. No Simples Nacional, na maior parte das atividades, ela já está dentro do DAS. Por isso a mesma vaga pode custar valores bem diferentes em empresas diferentes.\n\nAntes de abrir uma vaga, peça ao seu contador o custo total mensal dela no seu regime. Depois compare com o resultado que essa pessoa vai gerar.\n\nContratação é investimento e precisa se pagar.\n\nVocê sabe quanto custa, de verdade, o seu funcionário mais barato?",
+    "hashtags": [
+      "#gestaodepessoas",
+      "#rh",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-22_custo-real-do-funcionario/imagem.jpg",
+    "alt": "O salário não é o custo do seu funcionário. É só a parte que aparece no contracheque."
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-23",
+    "data": "2026-12-09",
+    "tema": "Contratação",
+    "formato": "documento",
+    "texto": "Contrate devagar. Demita rápido. A maioria das PMEs faz exatamente o contrário.\n\nContrata no desespero, porque a equipe está sobrecarregada, e depois demora meses para admitir que não deu certo. As duas pontas custam caro.\n\nQuatro passos que reduzem muito o erro:\n\n1. Defina o resultado esperado, não só as tarefas. \"Atender clientes\" é tarefa. \"Responder 100% dos clientes em até 1 hora\" é resultado.\n2. Teste na prática. Uma tarefa real de 1 hora diz mais do que três entrevistas.\n3. Combine os primeiros 90 dias por escrito: o que a pessoa precisa entregar no mês 1, 2 e 3.\n4. Avalie no meio do caminho. Se não está funcionando em 45 dias, raramente vai funcionar em 6 meses.\n\nO passo 3 protege os dois lados. A pessoa sabe exatamente o que se espera dela, e a avaliação deixa de ser opinião.\n\nQual desses passos falta no processo de contratação da sua empresa?",
+    "hashtags": [
+      "#recrutamento",
+      "#gestaodepessoas",
+      "#lideranca"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-23_contratacao/documento.pdf",
+    "titulo_documento": "Contratação: 4 passos para errar menos na próxima vaga"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-24",
+    "data": "2026-12-10",
+    "tema": "Delegar x largar",
+    "formato": "texto",
+    "texto": "\"Eu delego, mas ninguém faz direito.\"\n\nEssa frase é comum entre donos de empresa. Na maioria das vezes, o problema não está na equipe. Está na forma de passar a tarefa.\n\nTem diferença entre delegar e largar.\n\nLargar é \"resolve isso aí\", sem prazo, sem padrão de qualidade, e a cobrança só aparece quando dá errado.\n\nDelegar é transferir a tarefa junto com o contexto: qual resultado se espera, para quando, como saber se ficou bom. E acompanhar de perto no começo, soltando aos poucos conforme a pessoa ganha autonomia.\n\nDelegar dá mais trabalho nas primeiras semanas. É esse tempo investido no início que devolve o seu tempo depois. Quem pula essa etapa acaba refazendo a tarefa e concluindo que \"é mais rápido eu mesmo fazer\".\n\nPense na última tarefa que você passou e não saiu como esperava: ela foi delegada ou largada?",
+    "hashtags": [
+      "#lideranca",
+      "#delegar",
+      "#gestaodeequipes"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-25",
+    "data": "2026-12-11",
+    "tema": "Crescer consome caixa",
+    "formato": "imagem",
+    "texto": "Vender mais pode quebrar a sua empresa.\n\nParece contraditório, mas a conta é simples. Se você compra e paga antes de receber, cada venda a mais exige dinheiro adiantado. Quanto maior a empresa fica, mais capital de giro ela precisa.\n\nNo exemplo da imagem, com ciclo financeiro de 45 dias e custos de 60% do faturamento:\n\n→ faturando R$ 100 mil por mês, a empresa precisa de R$ 90 mil de capital de giro\n→ faturando R$ 200 mil, precisa de R$ 180 mil\n\nDobrar as vendas dobrou o dinheiro que precisa estar disponível antes de a venda virar caixa. Se esse dinheiro não existe, a empresa cresce no papel e quebra na conta bancária.\n\nAntes de acelerar, faça a conta do ciclo financeiro e garanta o caixa para o novo tamanho, seja com capital próprio, renegociação de prazos ou crédito planejado.\n\nSua empresa já passou aperto justamente num mês de vendas recorde?",
+    "hashtags": [
+      "#capitaldegiro",
+      "#crescimento",
+      "#gestaofinanceira"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-25_crescer-consome-caixa/imagem.jpg",
+    "alt": "Vender mais pode quebrar sua empresa. Quanto mais você cresce, mais capital de giro precisa ter."
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-26",
+    "data": "2026-12-12",
+    "tema": "Dívida boa x ruim",
+    "formato": "documento",
+    "texto": "Dívida não é o problema. O problema é para que você usa o dinheiro.\n\nDívida boa financia algo que gera retorno maior que os juros, com parcela que cabe no caixa. Uma máquina que aumenta a produção, um estoque que gira rápido, uma reforma que traz mais clientes.\n\nDívida ruim cobre prejuízo recorrente, paga outra dívida ou entra sem plano de retorno.\n\nAntes de pegar qualquer crédito, três perguntas:\n\n1. Esse dinheiro vai gerar mais do que custa?\n2. A parcela cabe no caixa mesmo num mês ruim?\n3. Se eu não pegar, o que acontece?\n\nSe a resposta da terceira for \"não consigo pagar a folha\", o problema não é falta de crédito. É falta de margem ou de controle de caixa. O empréstimo só empurra o problema para frente, com juros.\n\nCompare o custo total do empréstimo, não só a parcela, com o retorno que ele vai trazer.\n\nVocê já fez essas perguntas antes de assinar o último empréstimo da empresa?",
+    "hashtags": [
+      "#credito",
+      "#gestaofinanceira",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-26_divida-boa-x-ruim/documento.pdf",
+    "titulo_documento": "Dívida boa x dívida ruim: o teste antes de pegar crédito"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-27",
+    "data": "2026-12-13",
+    "tema": "Preço por valor",
+    "formato": "texto",
+    "texto": "Custo + margem diz o preço mínimo que você pode cobrar. O valor que o cliente percebe diz o máximo.\n\nQuem precifica só pelo custo deixa dinheiro na mesa toda vez que entrega mais valor do que cobra. E isso é mais comum do que parece, principalmente em serviços.\n\nEntre o mínimo e o máximo existem quatro referências:\n\n→ custo: o que você gasta para entregar\n→ preço mínimo: custo + margem que paga a estrutura\n→ concorrência: o que o cliente compara\n→ valor percebido: quanto o cliente perde, ou deixa de ganhar, se não tiver o que você vende\n\nO teto está na última. Um serviço que evita uma multa de R$ 20 mil não vale só o custo das horas trabalhadas. Vale uma fração do problema que ele resolve.\n\nEntre o mínimo e o teto está a sua estratégia de preço. Cobrar perto do mínimo pode fazer sentido para ganhar mercado, desde que seja uma escolha e não falta de conta.\n\nQuando foi a última vez que você revisou seus preços olhando o valor e não só o custo?",
+    "hashtags": [
+      "#precificacao",
+      "#estrategia",
+      "#vendas"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-28",
+    "data": "2026-12-14",
+    "tema": "Metas",
+    "formato": "imagem",
+    "texto": "\"Crescer em 2027\" não é meta. É desejo.\n\nMeta precisa de três coisas: número, prazo e responsável. Sem uma delas, não tem como cobrar, e chega dezembro sem ninguém saber se cumpriu.\n\n→ \"Crescer\" vira \"faturar R$ 1,2 milhão até dezembro de 2027\"\n→ \"Melhorar o atendimento\" vira \"responder 100% dos clientes em até 1 hora até março\"\n→ e cada meta ganha ao lado o nome de quem responde por ela\n\nOutro erro comum é ter metas demais. Dez metas é o mesmo que nenhuma, porque a atenção se divide e nada recebe esforço suficiente.\n\nAproveite o fim de ano: escreva no máximo 3 metas para 2027 nesse formato.\n\nQuais são as suas 3?",
+    "hashtags": [
+      "#metas",
+      "#planejamento",
+      "#gestaoempresarial"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-28_metas/imagem.jpg",
+    "alt": "\"Crescer em 2027\" não é meta. É desejo."
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-29",
+    "data": "2026-12-15",
+    "tema": "Planejamento anual em 1 página",
+    "formato": "documento",
+    "texto": "Seu planejamento de 2027 cabe em uma página. Se não cabe, ninguém vai usar.\n\nMuita empresa faz um planejamento longo em dezembro, apresenta em janeiro e esquece em fevereiro. O modelo de uma página resolve isso porque dá para revisar todo mês em poucos minutos.\n\nSão 5 blocos:\n\n1. Onde estamos: os números de 2026\n2. Para onde vamos: as 3 metas de 2027\n3. Como: as 3 a 5 iniciativas principais\n4. Quanto custa: orçamento e caixa\n5. Como vamos acompanhar: a reunião mensal de resultados\n\nQuase tudo o que entrou nesta série cabe em algum bloco: ponto de equilíbrio e DRE no primeiro, posicionamento e SWOT cruzada no terceiro, ciclo financeiro no quarto.\n\nReserve uma tarde, monte o seu e cole na parede. Plano que fica na gaveta não é plano.\n\nSe quiser ajuda para estruturar o da sua empresa, me manda uma mensagem.",
+    "hashtags": [
+      "#planejamento",
+      "#planejamentoestrategico",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-29_planejamento-anual-em-1-pagina/documento.pdf",
+    "titulo_documento": "Planejamento anual em 1 página: modelo para PMEs"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-30",
+    "data": "2026-12-16",
+    "tema": "Encerramento da série",
+    "formato": "texto",
+    "texto": "30 dias, 30 conceitos de gestão.\n\nTermino hoje a série sobre gestão estratégica para PMEs. Se você aplicar só três, sua empresa já fecha 2027 melhor do que fechou 2026. Os três que eu começaria amanhã:\n\n1. Calcular o ponto de equilíbrio. Sem ele, você não sabe se o mês foi bom.\n2. Separar as contas da empresa das pessoais, com pró-labore fixo. Sem isso, nenhum outro número é confiável.\n3. Fazer a reunião mensal de resultados. É ela que transforma os números em decisão.\n\nNenhum dos três exige sistema caro ou consultoria. Exige disciplina para fazer todo mês.\n\nObrigado a quem acompanhou até aqui. Qual conceito foi mais útil para você? Os mais citados nos comentários viram conteúdo aprofundado na próxima série.\n\nE se quiser um diagnóstico da gestão da sua empresa, me manda uma mensagem.",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#pme",
+      "#empreendedorismo"
+    ]
   }
 ]
