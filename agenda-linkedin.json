@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2026-11_ciclo-01_dia-01",
+    "data": "2026-11-17",
+    "tema": "Por que PMEs fecham",
+    "formato": "texto",
+    "texto": "38% das empresas abertas no Brasil a partir de 2017 já tinham fechado em 5 anos.\n\nO número é do Sebrae, com base na Receita Federal. E o padrão se repete: quanto menor a empresa, menor a chance de sobreviver. O MEI fecha mais que a microempresa, que fecha mais que a de pequeno porte.\n\nA explicação mais comum é \"faltou cliente\". Às vezes faltou mesmo. Mas, olhando de perto, o que costuma faltar antes é gestão:\n\n→ o dono não sabe quanto precisa faturar para pagar as contas\n→ o dinheiro da empresa e o da casa saem da mesma conta\n→ a empresa cresce em vendas sem ter caixa para bancar estoque e prazo de cliente\n\nNenhum desses erros aparece no primeiro mês. Eles se acumulam até o dia em que o caixa não fecha.\n\nNuma pesquisa do Sebrae com quem encerrou o negócio, 22% apontaram a falta de capital de giro como motivo principal. Isso é gestão de caixa, não azar.\n\nO dono de PME costuma trabalhar mais que qualquer funcionário. O problema é que passa o dia operando e não sobra hora para olhar os números.\n\nNos próximos posts vou destrinchar cada um desses pontos, com contas simples que dá para fazer numa planilha.\n\nSe você tem uma PME: qual desses três você reconhece na sua empresa?",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#pme",
+      "#empreendedorismo"
+    ]
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-02",
+    "data": "2026-11-18",
+    "tema": "Lucro x caixa",
+    "formato": "documento",
+    "texto": "Uma empresa pode fechar o mês com R$ 15 mil de lucro e R$ 45 mil faltando na conta.\n\nParece contradição, mas é questão de prazo. A venda entra na DRE no dia em que acontece. O dinheiro só entra na conta quando o cliente paga. Fornecedor, folha e aluguel não esperam.\n\nQuando a empresa vende parcelado e paga à vista, cada venda nova aumenta o lucro e drena o caixa ao mesmo tempo. Por isso tem empresa que cresce e quebra junto.\n\nNo documento acima tem o exemplo com os números, passo a passo.\n\nA regra que eu uso: DRE uma vez por mês para saber se o negócio é bom. Fluxo de caixa toda semana para saber se ele chega ao mês que vem.\n\nNa sua empresa, qual dos dois você olha com mais frequência?",
+    "hashtags": [
+      "#gestaoempresarial",
+      "#fluxodecaixa",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-02_lucro-x-caixa/documento.pdf",
+    "titulo_documento": "Lucro x caixa: por que o lucro não paga boleto"
+  },
+  {
+    "id": "2026-11_ciclo-01_dia-03",
+    "data": "2026-11-19",
+    "tema": "Markup x margem",
+    "formato": "imagem",
+    "texto": "Se você aplica markup de 100%, sua margem não é 100%. É 50%.\n\nMarkup é calculado sobre o custo. Margem é calculada sobre o preço de venda. Parece detalhe, mas quem confunde os dois acha que ganha o dobro do que realmente ganha.\n\nOnde isso machuca na prática: no desconto.\n\nProduto com custo de R$ 50 e preço de R$ 100. O vendedor pensa: \"tenho 100% de margem, dá para dar 30% de desconto tranquilo\". O preço cai para R$ 70 e a margem bruta vai de 50% para 28,6%. E ainda faltam imposto, comissão, frete e taxa do cartão.\n\nAntes de aprovar qualquer desconto, a pergunta certa é: quanto sobra depois de todos os custos variáveis?\n\nNa sua empresa, a tabela de preço é montada em markup ou em margem?",
+    "hashtags": [
+      "#precificacao",
+      "#gestaofinanceira",
+      "#pme"
+    ],
+    "arquivo": "posts-linkedin/2026-11_ciclo-01/dia-03_markup-x-margem/imagem.jpg",
+    "alt": "Se você aplica markup de 100%, sua margem não é 100%. É 50%. E essa confusão está destruindo o preço de muita empresa."
+  }
+]
